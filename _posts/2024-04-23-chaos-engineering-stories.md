@@ -3,7 +3,7 @@ layout: post
 title: Industires
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Chaos Engineering stories]
 comments: true
 mathjax: true
 author: Laurent Domb
