@@ -93,7 +93,7 @@ _**Insurance**_
 **Express Scripts**  
 [Chaos and Resilience Engineering - My Journey](https://www.information-safety.org/assets/secure360-chaos-resilience-notes.pdf)  
 **StateFarm**   
-https://engineering.statefarm.com/blog/embracing-chaos/    
+[Embracing Chaos](https://engineering.statefarm.com/blog/embracing-chaos/)  
 
 Media and Entertainment
 -----------------------
