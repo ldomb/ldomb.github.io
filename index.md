@@ -2,7 +2,7 @@
 layout: post
 title: Chaos Engineering Stories
 gh-repo: ldomb/ChaosEngineeringPublicStories
-gh-badge: [star, fork, follow]
+gh-badge: [star, follow]
 tags: [Chaos Engineering stories]
 comments: true
 mathjax: true
