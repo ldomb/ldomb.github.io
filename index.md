@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chaos Engineering Stories
-gh-repo: daattali/beautiful-jekyll
+gh-repo: ldomb/ChaosEngineeringPublicStories
 gh-badge: [star, fork, follow]
 tags: [Chaos Engineering stories]
 comments: true
