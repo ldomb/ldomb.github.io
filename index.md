@@ -11,9 +11,7 @@ author: Laurent Domb
 
 {: .box-success}
 
-# Public Chaos Engineering Stories / Implementations
-
-This list provides you with various public stories about Chaos Engineering. If you have an update, please create a pull request!
+This repository provides you with various public stories on how organizations approach and implement Chaos Engineering. If you have a story, please share it by creating a  pull request!
 
 _**Financial Services**_
 ------------------------
